@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(ex3.1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Assembling Login.asm...
+  ex3.1.vcxproj -> D:\workfile\AssemblyLanguage\ex4.2\Debug\ex4.2.exe

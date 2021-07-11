@@ -1,0 +1,3 @@
+﻿  C_example.cpp
+D:\workfile\AssemblyLanguage\C_example\C_example\C_example\C_example.cpp(10,16): warning C4018: “<”: 有符号/无符号不匹配
+  C_example.vcxproj -> D:\workfile\AssemblyLanguage\C_example\C_example\Debug\C_example.exe
